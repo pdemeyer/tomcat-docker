@@ -2,6 +2,8 @@ FROM tomcat:8.5-jre8
 
 MAINTAINER Pauwel Demeyer <pdemeyer@gmail.com>
 
+# empty line added
+
 # Add my property file
 # ADD servoy.properties $SERVOY_INSTALL_DIR/application_server/
 
